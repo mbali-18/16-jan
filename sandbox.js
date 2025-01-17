@@ -75,3 +75,5 @@ let date = 21;
 console.log(date)
 
 let wrap = []
+
+const hello = "hello"
