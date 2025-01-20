@@ -77,3 +77,9 @@ console.log(date)
 let wrap = []
 
 const hello = "hello"
+
+
+function greet(){
+     console.log();
+ }
+greet();
